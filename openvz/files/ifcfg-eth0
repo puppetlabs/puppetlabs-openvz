@@ -1,0 +1,4 @@
+DEVICE=eth0
+ONBOOT=yes
+BRIDGE=br0
+TYPE=ether
